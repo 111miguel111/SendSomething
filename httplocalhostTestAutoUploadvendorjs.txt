@@ -1,0 +1,8 @@
+http://localhost/TestAutoUpload/vendor/jstolpe/instagram-graph-api-php-sdk/src/Instagram/Test/test.php
+
+https://developers.facebook.com/apps/1681156472690196/settings/basic/
+https://developers.facebook.com/apps/?show_reminder=true
+Identificador de la aplicación
+1681156472690196
+Clave secreta de la aplicación
+5e607c366f942c94bc2020bf792701fc
